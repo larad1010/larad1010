@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @larad1010 (Lara Radovic) a PhD student at VetMedUni Vienna and PopGen Vienna, AT
 - 👀 I’m interested in using different laboratory and bioinformatic tools to investigate evolutionary dynamics of mammalian Y chromosome
-- currently working with horse Y chromosomes
+- currently investigating horse populations
 - 📫 You can reach me via email lararadovic1010@gmail.com
 
 <!---
